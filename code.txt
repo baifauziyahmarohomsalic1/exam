@@ -1,0 +1,20 @@
+<html>
+<head>
+<body>
+<table>
+<center>
+<table border="1">
+<tr>
+<td colspan="2"><h1><center><a href="http://www.rvmonline.net/ndrvmcc/"><font color="red">NDRVMCC</font color></h1></center></td>
+</tr>
+</center>
+<tr>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8IAnF6yEKsZ-RwAHRFjzyxElPoDQLILPGiRVopyWpLZgntTE4"width="500pixels"></td>
+<td width="500 pixels"><ul><center>STEM-11 -st.anthony de padua</br><marquee directions="right">be happy and enjoy your life time</marquee></center></ul></td>
+</tr>
+<tr>
+<td colspan="2"><marquee direction="up"><center><h1><font color="red">"Bai fauziyah marohomsalic"</font></center></marquee></td>
+</tr>
+</body>
+</head>
+</html>
